@@ -1,0 +1,10 @@
+{
+    "compile": {
+        "source": "./dev/templates/*.mjml",
+        "destination": "./app"
+    },
+    "send": {
+        "templates": [ "./app/index.html" ],
+        "destinations": [ "email@email.email" ]
+    }
+}

@@ -1,0 +1,12 @@
+<mjml>
+
+    <mj-head>
+        <mj-title>Title</mj-title>
+        <mj-include path="../base/head.mjml" />
+    </mj-head>
+
+    <mj-body>
+        <mj-include path="../partials/cta.mjml" />
+    </mj-body>
+
+</mjml>

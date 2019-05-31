@@ -1,0 +1,23 @@
+<mj-attributes>
+    <mj-body background-color="#fff" />
+</mj-attributes>
+
+<mj-breakpoint width="480px" />
+
+<mj-style inline="inline">
+    a {
+        display: inline-block;
+        color: #000;
+        text-decoration: underline;
+    }
+
+    a:hover,
+    a:focus {
+        color: #000;
+        text-decoration: none;
+    }
+</mj-style>
+
+<mj-style>
+    @media all and (max-width: 480px) { /* */ }
+</mj-style>

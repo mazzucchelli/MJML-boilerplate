@@ -1,0 +1,7 @@
+<mj-section>
+    <mj-column>
+        <mj-button href="https://mjml.io">
+            Call to Action
+        </mj-button>
+    </mj-column>
+</mj-section>

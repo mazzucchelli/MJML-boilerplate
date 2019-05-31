@@ -1,3 +1,10 @@
+# App
+app
+auth.json
+
+# Mac
+.DS_Store
+
 # Logs
 logs
 *.log
